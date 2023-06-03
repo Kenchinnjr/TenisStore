@@ -1,0 +1,155 @@
+body{
+    background: rgb(10,10,10);
+background: linear-gradient(90deg, rgba(10,10,10,1) 0%, rgba(140,100,72,0.969625350140056) 26%, rgba(130,93,68,1) 75%, rgba(18,18,17,1) 100%);
+    margin: 0;
+    padding: 0;
+}
+.a1{
+    width: 2100px;
+    height: 100px;
+    background: rgb(147,105,77);
+    background: linear-gradient(90deg, rgba(147,105,77,1) 0%, rgba(146,104,76,1) 100%);
+    margin: auto;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: top;
+    justify-content: top;
+}
+.a2{
+    width: 630px;
+    height: 100px;
+    background: rgb(89,62,44);
+    background: linear-gradient(90deg, rgba(89,62,44,1) 0%, rgba(91,61,42,1) 100%);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+}
+.a3{
+    width: 200px;
+    height: 200px;
+    background: rgb(147,100,72);
+background: linear-gradient(90deg, rgba(147,100,72,1) 0%, rgba(140,100,72,1) 100%);
+    display: flex;
+    margin-top: 180px;
+    margin-left: 850px;
+}
+.a4{
+    width: 400px;
+    height: 200px;
+color: white;
+margin-top: 0px;
+margin-left: 775px;
+font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+
+}
+.a5{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 340px;
+}
+.a6{
+width: 500px;
+    height: 300px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.a7{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin-top: -300px;
+    margin-left: 600px;
+}
+.a8{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin-top: -300px;
+    margin-left: 1150px;
+}
+.a9{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin-top: -640px;
+    margin-left: 900px;
+}
+.a10{
+    width: 600px;
+    height: 400px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 650px;
+}
+.a11{
+    width: 400px;
+    height: 200px;
+    color: white;
+    margin-top: 60px;
+    margin-left: 780px;
+font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+}
+.a12{
+    width: 400px;
+    height: 200px;
+    color: white;
+    margin-top: 60px;
+    margin-left: 180px;
+font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+}
+.a13{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin-top: 700px;
+    margin-left: 50px;
+}
+.a14{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin-top: -100px;
+    margin-left: 200px;
+}
+.a15{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin-top: -100px;
+    margin-left: 350px;
+}
+.a16{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-top: -700px;
+    margin-left: 800px;
+}
+.a17{
+    width: 400px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 500px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+}
+a{
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: brown;
+}
